@@ -1,0 +1,6 @@
+{
+  "name": "SchemeSaathi",
+  "description": "Multilingual citizen copilot with deterministic eligibility rules, official citations, voice input/output, and pre-filled government welfare applications.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
